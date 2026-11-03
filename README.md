@@ -13,11 +13,9 @@ I am a **Software Engineering & AI Student at WBS Coding School**, learning to b
 
 ## 💻 Projects
 
-- **Maroden – AI-Driven Infrastructure Analyzer** *(planned)*  
-  A software project for documenting deteriorating infrastructure and supporting its assessment with AI.
+- **Software & AI Navigator (planned)**
+
+A web application designed to help small businesses compare ERP systems, AI tools, and providers based on their workflows, budget, and existing software. It aims to provide transparent recommendations and clarify where automation helps and human judgment remains essential.
 
 More course and team projects will follow as I progress.
 
-## 📫 Contact
-
-[LinkedIn](https://de.linkedin.com/in/stefan-k%C3%BCmmel-4a7970268)
