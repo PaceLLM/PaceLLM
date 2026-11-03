@@ -1,17 +1,29 @@
-# Hi there, I'm Stefan Kümmel! 👋
+I am a Software Engineering & AI Student at WBS Coding School, learning to build modern web applications and integrate AI into practical solutions.
 
-I am a **Software Engineering & AI Student** at WBS Coding School. I am passionate about building modern web applications, integrating AI capabilities, and solving complex problems with code.
+🚀 About Me
 
-## 🚀 About Me
-- 📅 **Current Focus:** Intensive 12-month program in Software Engineering & Artificial Intelligence (Started Sept 2026).
-- 🔍 **Looking for:** A 2-month internship as a Junior Developer / AI Specialist (July – September 2027).
-- 🛠️ **Tech Stack I'm learning:** Python, JavaScript, TypeScript, React, Node.js, C#, OpenAI API & Prompt Engineering.
+📅 Program: 12-month Software Engineering & AI program, started September 2026.
 
-## 📊 My WBS Coding School Projects
-*(As the course progresses, I will pin my best team and solo projects here!)*
-- 🔹 **Maroden – AI-Driven Infrastructure Analyzer:** [Coming Soon] - Ein Softwareprojekt zur Erfassung und KI-gestützten Bewertung maroder Infrastruktur.
-- 🔹 **Project 2:** [Coming Soon] - Brief description.
+🔍 Seeking: A two-month internship in software development or AI integration between July and September 2027.
 
-## 📫 How to reach me
-- **LinkedIn:** https://de.linkedin.com/in/stefan-k%C3%BCmmel-4a7970268
-- **GitHub:** https://github.com
+🛠️ Learning throughout the program:
+
+Foundations: Python, SQL, data structures & algorithms
+
+Frontend: HTML, CSS, JavaScript, TypeScript, React & Next.js
+
+Backend & Cloud: Flask, C#, ASP.NET, REST APIs, Docker & Azure
+
+AI: OpenAI SDKs, prompt engineering, AI agents, MCP & n8n/Langflow
+
+Development Tools: Git, GitHub & Playwright
+
+💻 Projects
+
+Maroden – AI-Driven Infrastructure Analyzer (planned)
+A software project for documenting deteriorating infrastructure and supporting its assessment with AI.
+
+More course and team projects will follow as I progress.
+
+📫 Contact
+
