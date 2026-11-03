@@ -5,7 +5,7 @@ I am a **Software Engineering & AI Student** at WBS Coding School. I am passiona
 ## 🚀 About Me
 - 📅 **Current Focus:** Intensive 12-month program in Software Engineering & Artificial Intelligence (Started Sept 2026).
 - 🔍 **Looking for:** A 2-month internship as a Junior Developer / AI Specialist (July – September 2027).
-- 🛠️ **Tech Stack I'm learning:** JavaScript, TypeScript, React, Node.js, C#, OpenAI API & Prompt Engineering.
+- 🛠️ **Tech Stack I'm learning:** Python, JavaScript, TypeScript, React, Node.js, C#, OpenAI API & Prompt Engineering.
 
 ## 📊 My WBS Coding School Projects
 *(As the course progresses, I will pin my best team and solo projects here!)*
