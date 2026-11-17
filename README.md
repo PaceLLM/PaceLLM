@@ -27,7 +27,6 @@ Ich lerne, moderne Webanwendungen zu entwickeln und KI in praktische Lösungen z
 ### 💻 Projekte
 
 #### Software & AI Navigator (Geplant)
-Eine Webanwendung, die kleine Unternehmen dabei unterstützt, ERP-Systeme, KI-Tools und Anbieter basierend auf ihren Workflows, ihrem Budget und ihrer bestehenden Software zu vergleichen. Das Ziel ist es, transparente Empfehlungen zu liefern und zu verdeutlichen, wo Automatisierung hilft und wo menschliches Urteilsvermögen weiterhin unerlässlich ist.
 
 > 🛠️ *Weitere Kurs- und Teamprojekte werden folgen, während ich das Programm durchlaufe.*
 
@@ -54,7 +53,6 @@ Learning to build modern web applications and integrate AI into practical soluti
 ### 💻 Projects
 
 #### Software & AI Navigator (Planned)
-A web application designed to help small businesses compare ERP systems, AI tools, and providers based on their workflows, budget, and existing software. It aims to provide transparent recommendations and clarify where automation helps and human judgment remains essential.
 
 > 🛠️ *More course and team projects will follow as I progress.*
 
